@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-242.23339.11">
+    <data-source name="produits" uuid="2786d527-a158-4efc-a5fe-3ba67cc6421d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="prodact" uuid="d7f46771-b992-4eb6-adec-64cd79eea56c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="H2" />
+      <user-name>sa</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
